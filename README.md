@@ -18,7 +18,7 @@ Python 3.x
 
 How to Run
 Clone this repository:
-git clone https://github.com/Muhammad-Ali-Javed-16/BrainSwarm-NEST-Spring-2025/blob/main/banking_system.py
+git clone https://github.com/Muhammad-Ali-Javed-16/BrainSwarm-NEST-Spring-2025
 
 Navigate to the project directory:
 cd simple-banking-system
