@@ -18,7 +18,7 @@ Python 3.x
 
 How to Run
 Clone this repository:
-git clone https://github.com/your-username/simple-banking-system.git
+git clone https://github.com/Muhammad-Ali-Javed-16/BrainSwarm-NEST-Spring-2025/blob/main/banking_system.py
 
 Navigate to the project directory:
 cd simple-banking-system
@@ -35,4 +35,4 @@ Contributions are welcome! Feel free to fork the repository and submit a pull re
 License
 This project is licensed under the MIT License.
 Contact
-For any queries, reach out to your-email@example.com.
+For any queries, contact alijavedu33@gmail.com
